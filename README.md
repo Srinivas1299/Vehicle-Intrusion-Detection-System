@@ -18,7 +18,7 @@ OpenCV for image processing and Python for implementation.
 ✅ Alerts for Unauthorized Access – Notifies on unregistered vehicle detection.
 
 🛠 Tech Stack
-🔹 Programming Language: Python 🐍
+🔹 Programming Language: Python 
 🔹 Libraries & Frameworks:
 
 OpenCV (Face & Plate Detection)
